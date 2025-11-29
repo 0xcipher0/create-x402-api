@@ -1,0 +1,20 @@
+{
+  "name": "create-x402-api",
+  "version": "0.1.1",
+  "bin": {
+    "create-x402-api": "bin/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "x402"
+  ],
+  "author": "cipher0",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "execa": "^9.6.0",
+    "inquirer": "^13.0.1",
+    "kleur": "^4.1.5",
+    "ora": "^9.0.0"
+  }
+}
